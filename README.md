@@ -7,7 +7,7 @@
 ![](https://github.com/daryagerasimenko/hw8/blob/master/3.1.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw8/blob/master/2.png?raw=true)
 
-2. Для того, чтобы найти все упоминания Новгорода, я использовала регульрное выражение "Нов.город.". Было найдено **64** упоминания Новгорода.
+2. Для того, чтобы найти все упоминания Новгорода, я использовала регульрное выражение "Нов.город.". Было найдено **64** упоминаний Новгорода.
 ![](https://github.com/daryagerasimenko/hw8/blob/master/3.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw8/blob/master/3.2.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw8/blob/master/3.3.png?raw=true)
