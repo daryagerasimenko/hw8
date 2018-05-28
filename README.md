@@ -7,7 +7,10 @@
 ![](https://github.com/daryagerasimenko/hw8/blob/master/3.1.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw8/blob/master/2.png?raw=true)
 
-2. Для того, чтобы найти все упоминания Новгорода, я использовала регульрное выражение "Нов.город.". Было найдено **64** упоминания Новгорода.
+2. Для того, чтобы найти все упоминания Новгорода, я использовала регулярное выражение "Нов.город.". Было найдено **64** упоминания Новгорода.
 ![](https://github.com/daryagerasimenko/hw8/blob/master/3.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw8/blob/master/3.2.png?raw=true)
 ![](https://github.com/daryagerasimenko/hw8/blob/master/3.3.png?raw=true)
+3. Для того, чтобы избавиться от пустых строк, я открыла меню поиска и замены, в котором, отметив "поиск по регулярным выражениям", ввела в строку поиска "\n\n\n", а строку замены оставила пустой. 
+![](https://github.com/daryagerasimenko/hw8/blob/master/1.png?raw=true)
+
